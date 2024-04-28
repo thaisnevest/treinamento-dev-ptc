@@ -1,11 +1,17 @@
 <h1>Treinamento da subárea de desenvolvimento CITi [PTC]</h1>
 
 <h3>Material de estudo</h3>
+
 <a href="https://www.alura.com.br/artigos/css-guia-do-flexbox?gclid=CjwKCAiAl9efBhAkEiwA4TorisMjf8OZOWh4lpnC1qQb_V5qop4Z-fDHzI_aAVaTrDn80OoeE6XNpxoC3DgQAvD_BwE">Guia FlexBox Alura</a>
+
 <a href="https://flexboxfroggy.com/#pt-br">Flexbox froggy (jogo)</a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">Documentação HTML</a>
+
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">Documentação CSS</a>
+
 <a href="https://css-tricks.com/snippets/css/complete-guide-grid/">Guia GRID</a>
+
 <a href="https://youtu.be/llF6vD-RljE?feature=shared">Vídeo no youtube: landing page com html e css</a>
 
 <h3>Slide do treinamento</h3>
