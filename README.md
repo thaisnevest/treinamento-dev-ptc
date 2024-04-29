@@ -2,7 +2,7 @@
 
 <h3>Material de estudo ✧˚💻</h3>
 
-<a href="https://www.alura.com.br/artigos/css-guia-do-flexbox?gclid=CjwKCAiAl9efBhAkEiwA4TorisMjf8OZOWh4lpnC1qQb_V5qop4Z-fDHzI_aAVaTrDn80OoeE6XNpxoC3DgQAvD_BwE">Guia FlexBox Alura</a>
+<a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">Guia FlexBox</a>
 
 <a href="https://flexboxfroggy.com/#pt-br">Flexbox froggy (jogo)</a>
 
@@ -24,6 +24,11 @@ sua criatividade e os ensinamentos passados.</p>
 
 <h3>Deixe seu feedback -`♡´-</h3>
 <a href="https://forms.gle/4HGDW16xTWpd31WVA">Link do forms</a>
+
+<h3>Exemplos no CodeSandbox ‧₊˚🖇️</h3>
+<a href="https://codesandbox.io/p/devbox/treinamento-dev-ptc-fs3dyw?file=%2Findex.html">Código do treinamento</a>
+
+<a href="https://codesandbox.io/p/sandbox/desafio-g49pj4?file=%2Findex.html">Meu desafio no PTC</a>
 
 <h3>Contato ☕️｡⋆</h3>
 <p>Thaís Neves de Souza - tns2@cin.ufpe.br</p>
