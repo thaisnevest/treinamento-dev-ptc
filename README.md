@@ -1,4 +1,4 @@
-<h1>Treinamento da subárea de desenvolvimento CITi [PTC]</h1>
+<h1>Treinamento da subárea de desenvolvimento CITi [PTC] 2024.1</h1>
 
 <h3>Material de estudo ✧˚💻</h3>
 
@@ -26,9 +26,12 @@ sua criatividade e os ensinamentos passados.</p>
 <a href="https://forms.gle/4HGDW16xTWpd31WVA">Link do forms</a>
 
 <h3>Exemplos no CodeSandbox ‧₊˚🖇️</h3>
-<a href="https://codesandbox.io/p/devbox/treinamento-dev-ptc-fs3dyw?file=%2Findex.html">Código do treinamento</a>
+<a href="https://codesandbox.io/p/devbox/treinamento-dev-ptc-fs3dyw?file=%2Findex.html">Código do treinamento 2024.1</a>
+
+<a href="https://github.com/Beatriz-dos-Anjos/treinamento-dev-ptc">Código do treinamento 2024.2</a>
 
 <a href="https://codesandbox.io/p/sandbox/desafio-g49pj4?file=%2Findex.html">Meu desafio no PTC</a>
+
 
 <h3>Contato ☕️｡⋆</h3>
 <p>Thaís Neves de Souza - tns2@cin.ufpe.br</p>
