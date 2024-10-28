@@ -26,6 +26,7 @@ sua criatividade e os ensinamentos passados.</p>
 <a href="https://forms.gle/4HGDW16xTWpd31WVA">Link do forms</a>
 
 <h3>Exemplos no CodeSandbox ‧₊˚🖇️</h3>
+
 <a href="https://codesandbox.io/p/devbox/treinamento-dev-ptc-fs3dyw?file=%2Findex.html">Código do treinamento 2024.1</a>
 
 <a href="https://github.com/Beatriz-dos-Anjos/treinamento-dev-ptc">Código do treinamento 2024.2</a>
